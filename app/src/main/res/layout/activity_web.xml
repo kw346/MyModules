@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/textViewC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/code"
+        android:textSize="18dp"/>
+
+    <TextView
+        android:id="@+id/textViewName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/name"
+        android:textSize="15dp"/>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/textViewYr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/yr"
+        android:textSize="16dp"/>
+
+    <TextView
+        android:id="@+id/textViewSem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Sem"
+        android:textSize="16dp"/>
+
+    <TextView
+        android:id="@+id/textViewCr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/credit"
+        android:textSize="16dp"/>
+
+    <TextView
+        android:id="@+id/textViewPl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/place"
+        android:textSize="16dp"/>
+
+    <Button
+        android:layout_marginTop="15dp"
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Back" />
+</LinearLayout>

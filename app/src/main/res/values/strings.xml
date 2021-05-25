@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Mods</string>
+    <string name="web">Web AppIn Development in php</string>
+    <string name="software">Software Development Process</string>
+    <string name="uiux">UI/UX Design for Apps</string>
+    <string name="security">IT Security and Management</string>
+    <string name="place">Venue</string>
+    <string name="credit">Mod Credit</string>
+    <string name="Sem">Sem</string>
+    <string name="yr">Acad Yr</string>
+    <string name="name">Mod Name</string>
+    <string name="code">Mod Code</string>
+</resources>
